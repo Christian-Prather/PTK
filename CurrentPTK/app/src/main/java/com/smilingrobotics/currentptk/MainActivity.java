@@ -75,9 +75,9 @@ class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
         String resultCode = result.getText();
 
         Toast.makeText(MainActivity.this, resultCode, Toast.LENGTH_SHORT).show();
-       Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
-       startActivity(intent);
-       if (resultCode == "012000028496")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000028496")
        {
 
            //Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
