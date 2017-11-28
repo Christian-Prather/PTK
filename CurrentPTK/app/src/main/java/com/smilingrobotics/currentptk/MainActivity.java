@@ -176,7 +176,31 @@ class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
        if (result.getText() == "611269226126")
       // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
        //startActivity(intent);
-       if (result.getText() == "8674000018338")
+       if (result.getText() == "890817001020")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "847349011973")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847003236")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847017516")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847810162")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847000068")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847013259")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847811244")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "070847027324")
        {
 
            //Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
