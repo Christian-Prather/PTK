@@ -138,6 +138,45 @@ class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
       // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
        //startActivity(intent);
        if (result.getText() == "818094007283")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "1126942672")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "1126912211")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "2000423712991")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "721864915100")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "721864915506")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "611269235685")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "721864915490")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "721864915162")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "721864914417")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "611269212457")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "611269235791")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "611269226126")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "8674000018338")
        {
 
            //Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
