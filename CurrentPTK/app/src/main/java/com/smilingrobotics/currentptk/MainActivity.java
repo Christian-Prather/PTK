@@ -78,6 +78,66 @@ class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
       // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
        //startActivity(intent);
        if (result.getText() == "012000028496")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000162473")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000141430")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000110467")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000162152")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000043000")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000126352")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000016431")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000162688")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000162572")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "012000162565")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094003001")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094000017")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094007436")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094000703")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094000024")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094003889")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094002240")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094003926")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094007139")
+      // Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+       //startActivity(intent);
+       if (result.getText() == "818094007283")
        {
 
            //Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
