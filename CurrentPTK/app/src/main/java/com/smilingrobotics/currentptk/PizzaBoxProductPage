@@ -73,7 +73,7 @@
         android:layout_height="39dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Recycling Facts:"
+        android:text="Recycle?"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="239dp" />
@@ -95,7 +95,7 @@
         android:layout_height="38dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Reuse Me!"
+        android:text="Other Uses:"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="383dp" />
 
