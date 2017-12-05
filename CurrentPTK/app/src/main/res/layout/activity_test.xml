@@ -14,11 +14,12 @@
         android:layout_width="156dp"
         android:layout_height="109dp"
         android:layout_alignParentTop="true"
-        android:layout_marginEnd="32dp"
-        android:layout_marginRight="32dp"
+        android:layout_marginEnd="83dp"
+        android:layout_marginRight="83dp"
+        android:layout_marginTop="12dp"
         android:layout_toLeftOf="@+id/textView6"
         android:layout_toStartOf="@+id/textView6"
-        android:src="@drawable/aluminumfoil" />
+        android:src="@drawable/can" />
 
     <TextView
         android:id="@+id/textView2"
@@ -43,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="It takes about 400 years for aluminum to completely break down in a landfill. Some landfills will burn aluminum to expedite this, but that releases harmful metals and gases into the atmosphere." />
+        android:text="10-20 years" />
 
     <TextView
         android:id="@+id/textView5"
@@ -54,7 +55,7 @@
         android:layout_alignParentTop="true"
         android:layout_toEndOf="@+id/imageView"
         android:layout_toRightOf="@+id/imageView"
-        android:text="Aluminum Foil"
+        android:text="Aluminum Can"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
@@ -95,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="The aluminum is cleaned before being melted and formed into blocks. Afterwards, it is rolled into sheets before being taking to can-producing companies. However, some recycling facilities won't take used foil unless it has been thoroughly cleaned. " />
+        android:text="the aluminum is cleaned before being melted and formed into blocks. afterwards, it is rolled into sheets before being taking to can-producing companies. " />
 
     <TextView
         android:id="@+id/textView4"
@@ -120,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="You can reuse aluminum foil by using it to make art, reflect sunlight, or to help scrub away heavy-duty messes. These are just a few of the many ways you can turn used foil into something new!" />
+        android:text="Candles, Light holders, measuring scoops, ordaments,earrings, stoves, batteries, organizers, key chains, etc." />
 
     <TextView
         android:id="@+id/textView"
@@ -145,7 +146,7 @@
         android:layout_marginRight="39dp"
         android:text="YES"
         android:textAlignment="center"
-        android:textColor="@android:color/holo_red_dark"
+        android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp" />
 
     <TextView

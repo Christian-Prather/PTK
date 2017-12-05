@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="5-40 weeks depending on composition and process used to color." />
+        android:text="Colored paper takes around 5-40 weeks to decompose, depending on composition and process used to color." />
 
     <TextView
         android:id="@+id/textView5"
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Not recyclable (if dyed through) otherwise same as white paper. " />
+        android:text="If dyed all the way through, colored paper is not recyclable. If it's only dyed on the outsides, it can be recycled." />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Arts and Crafts, Organization, Bookmarks" />
+        android:text="Colored paper can be reused for arts and crafts, homemade bookmarks, confetti, etc." />
 
     <TextView
         android:id="@+id/textView"

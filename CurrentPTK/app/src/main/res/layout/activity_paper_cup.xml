@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="Paper cup: 20 years* (Kottasova)  * Only applies to non-Starbucks Cups." />
+        android:text="Paper cups take around 20 years to fully decompose in a landfill." />
 
     <TextView
         android:id="@+id/textView5"
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Most paper cups are unfortunately not recyclable.  This is because a thin layer of plastic is attached to the cup which makes it unrecyclable.  The plastic lid can be recycled. " />
+        android:text="Most paper cups are unfortunately not recyclable. This is because a thin layer of plastic is attached to the cup which makes it unrecyclable.  The plastic lid can be recycled. " />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Paper cups: Planter pots, pencil cups, a scoop, paper cup garland (Kurtz) P.s. there’s more at this site." />
+        android:text="Paper cups can be reused as planter pots, pencil cups, a scoop, paper cup garland, and more." />
 
     <TextView
         android:id="@+id/textView"
