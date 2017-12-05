@@ -3,11 +3,11 @@ package com.smilingrobotics.currentptk;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class PlasticBottleActivity extends AppCompatActivity {
+public class EggCartonActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_plasticbottle);
+        setContentView(R.layout.activity_egg_carton);
     }
 }

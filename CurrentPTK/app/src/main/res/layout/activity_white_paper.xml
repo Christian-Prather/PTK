@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="2 weeks." />
+        android:text="Plain white paper takes about 2 weeks to decompose." />
 
     <TextView
         android:id="@+id/textView5"
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Washed with soapy water, added to bin with water to create 'slurry', materials added to 'slurry' to create new paper products. " />
+        android:text="The paper gets washed with soapy water, added to bin with water to create 'slurry', materials added to 'slurry' to create new paper products. " />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Arts and Crafts, Organization, Bookmarks." />
+        android:text="Paper can be repurposed in arts and crafts, or as bookmarks, paper snowflakes, etc." />
 
     <TextView
         android:id="@+id/textView"

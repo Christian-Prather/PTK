@@ -19,7 +19,7 @@
         android:layout_marginTop="12dp"
         android:layout_toLeftOf="@+id/textView6"
         android:layout_toStartOf="@+id/textView6"
-        android:src="@drawable/papermilkcarton" />
+        android:src="@drawable/styrofoamplate" />
 
     <TextView
         android:id="@+id/textView2"
@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="These cartons take about 3 months to completely breakdown in a landfill." />
+        android:text="Tetra paks are made with multiple materials, including paperboard and aluminum. While paperboard doesn't take very long to break down, the aluminum layer in tetra paks takes hundreds of years to fully decompose. " />
 
     <TextView
         android:id="@+id/textView5"
@@ -55,7 +55,7 @@
         android:layout_alignParentTop="true"
         android:layout_toEndOf="@+id/imageView"
         android:layout_toRightOf="@+id/imageView"
-        android:text="Paper Milk Carton"
+        android:text="Tetra Pak"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="The carton is washed before the inside liner is removed. Once removed, the carton is shredded for reusability. " />
+        android:text="The fiber from these cartons are extracted and made into pulp at a paper mill in a machine called a hydrapulper." />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Paper milk cartons can be reused as storage containers, organizing containers, scoopers, baskets, or for watering jugs, birdhouses, making crafts, etc." />
+        android:text="You can reuse tetra paks by refilling them or using them as storage containers for liquids. But we recommend recycling them instead, if you can." />
 
     <TextView
         android:id="@+id/textView"

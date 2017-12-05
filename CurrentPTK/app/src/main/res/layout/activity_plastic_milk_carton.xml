@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="100 years." />
+        android:text="Plastic milk jugs take 400 or more years to break down." />
 
     <TextView
         android:id="@+id/textView5"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Storage containers, organizing containers, scoopers, baskets, watering jugs, birdhouses, making crafts, spill catchers for beverage containers, etc." />
+        android:text="Plastic milk jugs can be repurposed as storage containers, organizing containers, scoopers, baskets, or birdhouses, and can be reused for watering jugs, making crafts, etc." />
 
     <TextView
         android:id="@+id/textView"

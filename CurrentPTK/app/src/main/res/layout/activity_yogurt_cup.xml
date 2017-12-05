@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="100 years." />
+        android:text="Yogurt cups, like most other plastic products, take about 400 years to completely break down in a landfill." />
 
     <TextView
         android:id="@+id/textView5"
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="The cups are washed prior to being sorted. Once sorted, they are melted while new plastics are added. " />
+        android:text="The cups are washed prior to being sorted. Once sorted, they are melted while new plastics are added, in order to create new products. " />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Candle holders, ice cube makers, seed starters, snack containers, decorative items, cups for kids, popsicle maker, etc." />
+        android:text="These containers can be repurposed into candle holders, ice cube makers, seed starters, snack containers, decorative items, cups for kids, popsicle maker, etc." />
 
     <TextView
         android:id="@+id/textView"
