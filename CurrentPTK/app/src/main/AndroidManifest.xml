@@ -29,6 +29,19 @@
         <activity android:name=".StyrofoamPlateActivity"/>
         <activity android:name=".WhitePaperActivity"/>
         <activity android:name=".YogurtCupActivity"/>
+        <activity android:name=".CoffeeFilterActivity"/>
+        <activity android:name=".EggCartonActivity"/>
+        <activity android:name=".GlassBottleActivity"/>
+        <activity android:name=".PaperPlateActivity"/>
+        <activity android:name=".PlasticForkActivity"/>
+        <activity android:name=".PlasticSpoonActivity"/>
+        <activity android:name=".PlasticKnifeActivity"/>
+        <activity android:name=".RRCCPopcornBagActivity"/>
+        <activity android:name=".TetraPaksActivity"/>
+
+
+
+
 
 
     </application>
