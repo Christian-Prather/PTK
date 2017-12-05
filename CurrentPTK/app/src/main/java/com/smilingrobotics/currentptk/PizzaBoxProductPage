@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ptk.productappptk.ProductPageInfo"
+    tools:showIn="@layout/activity_product_page_info">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Pizza Box"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recyclable: No"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Reusable: Yes"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="127dp"
+        android:layout_height="132dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+        
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="349dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Landfill Lifespan:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="349dp"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="The cardboard in pizza boxes are compostable, and will compost in a landfill in less than a year."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="349dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recycling Facts:"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="239dp" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="351dp"
+        android:layout_height="106dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="Pizza boxes cannot be recycled, because the oils from the pizza saturates the cardboard, and once saturated, the paper fibers will not be able to be separated from the oils during the pulping process. However, this item will compost in less than a year!"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="277dp" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="351dp"
+        android:layout_height="38dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Reuse Me!"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="383dp" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="350dp"
+        android:layout_height="78dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="You can reuse/repurpose a pizza box by composting it and turning it into nutrients for your garden."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="421dp" />
+
+</android.support.constraint.ConstraintLayout>
