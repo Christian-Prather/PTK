@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ptk.productappptk.ProductPageInfo"
+    tools:showIn="@layout/activity_product_page_info">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Aluminum Foil"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recyclable: Yes"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Reusable: Yes"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="127dp"
+        android:layout_height="132dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="349dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Landfill Lifespan:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="349dp"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="It takes about 400 years for aluminum to completely break down in a landfill. Some landfills will burn aluminum to expedite this, but that releases harmful metals and gases into the atmosphere."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="349dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recycle?"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="239dp" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="351dp"
+        android:layout_height="106dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="the aluminum is cleaned before being melted and formed into blocks. afterwards, it is rolled into sheets before being taking to can-producing companies. However, some recycling facilities won't take used foil unless it has been thoroughly cleaned."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="277dp" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="351dp"
+        android:layout_height="38dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Other Uses:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="383dp" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="350dp"
+        android:layout_height="78dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="You can reuse aluminum foil by using it to make art, reflect sunlight, or to help scrub away heavy-duty messes. These are just a few of the many ways you can turn used foil into something new!"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="421dp" />
+
+</android.support.constraint.ConstraintLayout>
