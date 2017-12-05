@@ -101,20 +101,25 @@ public class RecycleActivity extends AppCompatActivity implements SearchView.OnQ
                     startActivity(frat1);
                 }
                 if (itemPosition == 11) {
-                  //  Intent frat11 = new Intent(view.getContext(), SigmaPhiEpsilonActivity.class);
-                   // startActivity(frat11);
+                    Intent frat0 = new Intent(view.getContext(), PlasticSpoonActivity.class);
+                    startActivity(frat0);
+
                 }
-                if (itemPosition == 12) {
-                  //  Intent frat12 = new Intent(view.getContext(), ThetaDeltaChiActivity.class);
-                   // startActivity(frat12);
+                if (itemPosition == 12)
+                { Intent frat0 = new Intent(view.getContext(), PlasticForkActivity.class);
+                    startActivity(frat0);
                 }
                 if (itemPosition == 13) {
-                  //  Intent frat13 = new Intent(view.getContext(), ThetaXiActivity.class);
-                  //  startActivity(frat13);
+                    Intent frat0 = new Intent(view.getContext(), PlasticKnifeActivity.class);
+                    startActivity(frat0);
                 }
                 if (itemPosition == 14) {
-                  //  Intent frat14 = new Intent(view.getContext(), ZetaBetaTauActivity.class);
-                  //  startActivity(frat14);
+                    Intent frat0 = new Intent(view.getContext(), RRCCPopcornBagActivity.class);
+                    startActivity(frat0);
+                }
+                if (itemPosition == 14) {
+                    Intent frat0 = new Intent(view.getContext(), PaperPlateActivity.class);
+                    startActivity(frat0);
                 }
             }
         });
