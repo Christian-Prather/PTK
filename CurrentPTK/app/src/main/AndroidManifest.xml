@@ -20,6 +20,15 @@
         <activity android:name=".RecycleActivity" />
         <activity android:name=".PaperCupActivity" />
         <activity android:name=".AluminumActivity"/>
+        <activity android:name=".AluminumFoilActivity"/>
+        <activity android:name=".ColoredPaperActivity"/>
+        <activity android:name=".NapkinActivity"/>
+        <activity android:name=".PaperMilkCartonActivity"/>
+        <activity android:name=".PlasticMilkCartonActivity"/>
+        <activity android:name=".SaranWrapActivity"/>
+        <activity android:name=".StyrofoamPlateActivity"/>
+        <activity android:name=".WhitePaperActivity"/>
+        <activity android:name=".YogurtCupActivity"/>
 
 
     </application>

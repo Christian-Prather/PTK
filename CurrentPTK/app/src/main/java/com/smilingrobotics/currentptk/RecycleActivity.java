@@ -64,39 +64,41 @@ public class RecycleActivity extends AppCompatActivity implements SearchView.OnQ
                     startActivity(frat1);
                 }
                 if (itemPosition == 2) {
+                    Intent frat1 = new Intent(view.getContext(), SaranWrapActivity.class);
+                    startActivity(frat1);
 
                 }
                 if (itemPosition == 3) {
-                   // Intent frat3 = new Intent(view.getContext(), KappaAlphaOrderActivity.class);
-                   // startActivity(frat3);
+                    Intent frat1 = new Intent(view.getContext(), AluminumFoilActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 4) {
-                   // Intent frat4 = new Intent(view.getContext(), KappaSigmaActivity.class);
-                   // startActivity(frat4);
+                    Intent frat1 = new Intent(view.getContext(), StyrofoamPlateActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 5) {
-                   // Intent frat5 = new Intent(view.getContext(), PhiDeltaThetaActivity.class);
-                   // startActivity(frat5);
+                    Intent frat1 = new Intent(view.getContext(), PlasticMilkCartonActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 6) {
-                    //Intent frat6 = new Intent(view.getContext(), PiKappaAlphaActivity.class);
-                    //startActivity(frat6);
+                    Intent frat1 = new Intent(view.getContext(), PaperMilkCartonActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 7) {
-                  //  Intent frat7 = new Intent(view.getContext(), PiKappaPhiActivity.class);
-                  //  startActivity(frat7);
+                    Intent frat1 = new Intent(view.getContext(), YogurtCupActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 8) {
-                   // Intent frat8 = new Intent(view.getContext(), SigmaAlphaEpsilonActivity.class);
-                   // startActivity(frat8);
+                    Intent frat1 = new Intent(view.getContext(), ColoredPaperActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 9) {
-                   // Intent frat9 = new Intent(view.getContext(), SigmaAlphaMuActivity.class);
-                   // startActivity(frat9);
+                    Intent frat1 = new Intent(view.getContext(), WhitePaperActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 10) {
-                  //  Intent frat10 = new Intent(view.getContext(), SigmaChiActivity.class);
-                  //  startActivity(frat10);
+                    Intent frat1 = new Intent(view.getContext(), NapkinActivity.class);
+                    startActivity(frat1);
                 }
                 if (itemPosition == 11) {
                   //  Intent frat11 = new Intent(view.getContext(), SigmaPhiEpsilonActivity.class);
