@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ptk.productappptk.ProductPageInfo"
+    tools:showIn="@layout/activity_product_page_info">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Egg Carton"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recyclable: Yes"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Reusable: Yes"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="127dp"
+        android:layout_height="132dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="349dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Landfill Lifespan:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="349dp"
+        android:layout_height="75dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="Paper egg cartons will decompose in less than a year. Plastic cartons take about 400 years, and styrofoam takes 500+ years to decompose in a landfill."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="349dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Recycle?"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="241dp" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="348dp"
+        android:layout_height="88dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="It is easiest to recycle/compost paper egg cartons, and harder to recycle plastic products. Styrofoam is not recyclable. For sustainable living, try switching to eggs sold in paper cartons."
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="276dp" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="348dp"
+        android:layout_height="46dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Other Uses:"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="360dp" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="348dp"
+        android:layout_height="103dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="You can reuse/repurpose egg cartons in a number of ways. Paper cartons can be composted into plant nutrients, and all egg cartons can be used as seed starters, or to organize nails/screws, hold paints, or other arts and crafts."
+        android:textSize="14dp"
+        tools:layout_editor_absoluteY="395dp"
+        tools:layout_editor_absoluteX="18dp" />14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="421dp" />
+
+</android.support.constraint.ConstraintLayout>
