@@ -44,7 +44,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbars="vertical"
-        android:text="Over 500 years." />
+        android:text="Styrofoam can take 500+ years to decompose in a landfill." />
 
     <TextView
         android:id="@+id/textView5"
@@ -96,7 +96,7 @@
         android:layout_below="@+id/textView3"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="It essentially is not. However, it may be reused and/ or repurposed to eliminate waste." />
+        android:text="Most recycling centers do not accept styrofoam products, so essentially, it is not recyclable. However, it may be reused and/ or repurposed to eliminate waste." />
 
     <TextView
         android:id="@+id/textView4"
@@ -121,7 +121,7 @@
         android:layout_below="@+id/textView4"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Packaging insulation, organizing containers, plant boxes, decorative seasonal crafts, animal homes, gift boxes, small vases, drawing templates, etc." />
+        android:text="You can reuse/repurpose styrofoam products as materials for arts and crafts, or containers for leftovers. Additionally, you can shred the styrofoam and use it as packing material." />
 
     <TextView
         android:id="@+id/textView"
