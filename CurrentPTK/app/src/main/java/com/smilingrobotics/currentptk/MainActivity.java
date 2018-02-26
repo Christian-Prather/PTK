@@ -75,14 +75,233 @@ class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
         String resultCode = result.getText();
 
         Toast.makeText(MainActivity.this, resultCode, Toast.LENGTH_SHORT).show();
-       Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
-       startActivity(intent);
-       if (resultCode == "012000028496")
-       {
 
-           //Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
-           //startActivity(intent);
+       if (resultCode == "01235504")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
        }
+       if (resultCode == "01241000")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01227107")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01264904")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003051")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003693")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003303")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093401154")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001057")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001040")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001071")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "794522909001")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "794522915002")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01235504")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01241000")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01227107")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "01264904")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003051")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003693")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "853311003303")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093401154")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001057")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001040")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "836093001071")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "794522909001")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "794522915002")
+       {
+           Intent intent = new Intent(MainActivity.this, GlassBottleActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000162473")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000141430")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000162152")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000043000")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000126352")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000016431")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000162688")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000162572")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "012000162565")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094003001")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094000017")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094007436")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094000703")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094000024")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094003889")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094002240")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094003926")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094007139")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+       if (resultCode == "818094007283")
+       {
+           Intent intent = new Intent(MainActivity.this, AluminumActivity.class);
+           startActivity(intent);
+       }
+
         setContentView(R.layout.activity_main);
 
         scannerView.stopCamera();
